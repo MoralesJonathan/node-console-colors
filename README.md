@@ -1,1 +1,1 @@
-# node-console-colors
+# simple-console-colors
