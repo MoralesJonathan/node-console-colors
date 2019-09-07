@@ -1,0 +1,25 @@
+{
+  "name": "node-console-colors",
+  "version": "1.0.0",
+  "description": "Add the default console colors to nodejs files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoralesJonathan/nodeconsolecolors.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "console",
+    "colors"
+  ],
+  "author": "Jonathan Morales <moralesjonathan@email.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoralesJonathan/nodeconsolecolors/issues"
+  },
+  "homepage": "https://github.com/MoralesJonathan/nodeconsolecolors#readme"
+}
