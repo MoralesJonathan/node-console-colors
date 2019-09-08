@@ -4,10 +4,10 @@
   <a href=" ">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
   </a>
-  <a href="https://github.com/MoralesJonathan/nodeconsolecolors/graphs/commit-activity">
+  <a href="https://github.com/MoralesJonathan/simple-console-colors/graphs/commit-activity">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="_blank" />
   </a>
-  <a href="https://github.com/MoralesJonathan/nodeconsolecolors/blob/master/LICENSE">
+  <a href="https://github.com/MoralesJonathan/simple-console-colors/blob/master/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
   </a>
 </p>
@@ -31,7 +31,7 @@ $ npm i simple-console-colors
 ## 📑 Usage
 
 ```sh
-require('node-console-colors');
+require('simple-console-colors');
 ```
 
 ## 🔬 Run tests
@@ -48,7 +48,7 @@ $ npm run test
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [Issues page](https://github.com/MoralesJonathan/nodeconsolecolors/issues) and the [Contributing Guide](CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [Issues page](https://github.com/MoralesJonathan/simple-console-colors/issues) and the [Contributing Guide](CONTRIBUTING.md).
 
 ## ❤️ Show your support
 
@@ -57,4 +57,4 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2019 [Jonathan Morales <moralesjonathan@email.com>](https://github.com/MoralesJonathan).<br />
-This project is [MIT](https://github.com/MoralesJonathan/nodeconsolecolors/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/MoralesJonathan/simple-console-colors/blob/master/LICENSE) licensed.
