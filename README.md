@@ -1,5 +1,5 @@
 <h1 align="center">Simple-console-colors 💻🌈🖥️</h1>
-<p>
+<p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href=" ">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
@@ -21,9 +21,11 @@
 
 
 ## 🛠️ Install
+This is a Node.js module available through the npm registry.
+<br/>Installation is done using the npm install command:
 
 ```sh
-npm i simple-console-colors 
+$ npm i simple-console-colors 
 ```
 
 ## 📑 Usage
@@ -35,7 +37,7 @@ require('node-console-colors');
 ## 🔬 Run tests
 
 ```sh
-npm run test
+$ npm run test
 ```
 
 ## 👨🏻‍💻 Author
@@ -46,7 +48,7 @@ npm run test
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MoralesJonathan/nodeconsolecolors/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [Issues page](https://github.com/MoralesJonathan/nodeconsolecolors/issues) and the [Contributing Guide](CONTRIBUTING.md).
 
 ## ❤️ Show your support
 
