@@ -17,7 +17,7 @@
     "colors"
   ],
   "author": "Jonathan Morales <moralesjonathan@email.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/MoralesJonathan/nodeconsolecolors/issues"
   },
