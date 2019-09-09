@@ -48,7 +48,7 @@ module.exports = (selectedStyle = 'default') => {
     
     console.log = function() {
         if(selectedStyle === 'basic') {
-            const argArray = Array.prototype.slice.call(arguments);
+            const argArray = Array.from(arguments);
             argArray.unshift('')
             log.apply(console, argArray)
         } else
@@ -56,21 +56,21 @@ module.exports = (selectedStyle = 'default') => {
     };
 
     console.info = function() {
-        const argArray = Array.prototype.slice.call(arguments);
+        const argArray = Array.from(arguments);
         argArray.unshift(logStyle.info)
         argArray.push(Reset);
         info.apply(console, argArray)
     };
 
     console.warn = function() {
-        const argArray = Array.prototype.slice.call(arguments);
+        const argArray = Array.from(arguments);
         argArray.unshift(logStyle.warn)
         argArray.push(Reset);
         warn.apply(console, argArray)
     };
 
     console.error = function() {
-        const argArray = Array.prototype.slice.call(arguments);
+        const argArray = Array.from(arguments);
         argArray.unshift(logStyle.error);
         argArray.push(Reset);
         error.apply(console, argArray);
